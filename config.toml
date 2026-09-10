@@ -1,0 +1,9 @@
+# Tema visual de la aplicación: Azul corporativo + Gris
+# Puedes ajustar estos códigos de color (formato HEX) si luego quieres afinarlos.
+[theme]
+base = "light"
+primaryColor = "#1F4E8C"            # Azul corporativo (botones, acentos, elementos activos)
+backgroundColor = "#FFFFFF"          # Fondo principal
+secondaryBackgroundColor = "#EEF1F5" # Gris claro (barra lateral, tarjetas)
+textColor = "#1A1A2E"                # Texto principal (gris muy oscuro / casi negro)
+font = "sans serif"
